@@ -1,1 +1,1 @@
-# c-class-28p
+# project-C28-template
